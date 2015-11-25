@@ -1,5 +1,18 @@
+
 <<<<<<< HEAD
-Version-2
-=======
 Version-1
->>>>>>> master
+
+Master Branch with file TEST changes
+
+Master changes
+
+||||||| merged common ancestors
+Version-2
+Milliman branch with file TEST
+=======
+Version-2
+
+Milliman branch with file TEST
+
+Milliman changes 
+>>>>>>> milliman
